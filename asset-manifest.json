@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chatgpt/static/css/main.073c9b0a.css",
-    "main.js": "/chatgpt/static/js/main.64962d46.js",
+    "main.css": "/chatgpt/static/css/main.a7c257a0.css",
+    "main.js": "/chatgpt/static/js/main.77cb4c08.js",
     "static/js/787.972d1c16.chunk.js": "/chatgpt/static/js/787.972d1c16.chunk.js",
-    "static/media/logo.svg": "/chatgpt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/pepe.png": "/chatgpt/static/media/pepe.7bdebe517350d5c0d5ff.png",
     "index.html": "/chatgpt/index.html",
-    "main.073c9b0a.css.map": "/chatgpt/static/css/main.073c9b0a.css.map",
-    "main.64962d46.js.map": "/chatgpt/static/js/main.64962d46.js.map",
+    "main.a7c257a0.css.map": "/chatgpt/static/css/main.a7c257a0.css.map",
+    "main.77cb4c08.js.map": "/chatgpt/static/js/main.77cb4c08.js.map",
     "787.972d1c16.chunk.js.map": "/chatgpt/static/js/787.972d1c16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.64962d46.js"
+    "static/css/main.a7c257a0.css",
+    "static/js/main.77cb4c08.js"
   ]
 }
